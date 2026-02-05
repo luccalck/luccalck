@@ -4,7 +4,7 @@
 
 ---
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccalck&show_icons=true&hide_border=false&count_private=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccalck&layout=compact&hide_border=false&theme=radical&card_width=470&include_all_commits=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccalck&show_icons=true&hide_border=false&count_private=true&theme=radical&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccalck&layout=compact&hide_border=false&theme=radical&card_width=470&include_all_commits=true)
 
 <br>
 
