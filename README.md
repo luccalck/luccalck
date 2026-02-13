@@ -4,7 +4,10 @@
 
 ---
 
- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dluccalck%26theme%3Dradical%26hide_border%3Dfalse)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccalck&layout=compact&hide_border=false&theme=radical&card_width=470&include_all_commits=true)
+<p align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dluccalck%26theme%3Dradical%26hide_border%3Dfalse" alt="GitHub Streak" />
+<img height="180em" src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dluccalck%26theme%3Dradical%26no-frame%3Dtrue%26column%3D4%26margin-w%3D15%26margin-h%3D15" alt="GitHub Trophies" />
+</p>
 
 <br>
 
