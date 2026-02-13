@@ -1,6 +1,6 @@
 <div align="center">
 
-### **Desenvolvedor Full-Stack  |  Cursando Desenvolvimento de Sistemas**
+### **Full Stack Developer | Python | JavaScript | SQL | HTML | CSS | Software Engineering**
 
 ---
 
