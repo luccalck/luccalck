@@ -2,11 +2,11 @@
 
 # Lucca Castilho
 
-### Full Stack Developer · Software Engineering · ML
+### Software Engineering Student · Full Stack · Applied ML
 
 *Building production-grade web platforms, end-to-end ML pipelines, and polished frontends.*
 
-📍 São Paulo, Brazil &nbsp;·&nbsp; 🎓 Systems Analysis & Development (ADS) &nbsp;·&nbsp; 💼 Open to opportunities
+São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and Development (ADS) &nbsp;·&nbsp; Open to internships and junior roles
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## About
 
-I'm a full-stack developer focused on shipping software that's **architecturally sound and visually polished**. I work across the stack — from designing PostgreSQL schemas with Row-Level Security and building FastAPI services, to crafting React/TypeScript interfaces with motion and micro-interactions.
+I'm an undergraduate student pursuing **Computer Science** and **Systems Analysis and Development (ADS)** in parallel, with a strong focus on shipping software that's architecturally sound and visually polished. I work across the stack — from designing PostgreSQL schemas with Row-Level Security and building FastAPI services, to crafting React and TypeScript interfaces with motion and micro-interactions.
 
-I move comfortably between **product engineering** (multi-tenant SaaS, auth, integrations, dashboards) and **applied ML** (built an ensemble model that won every leaderboard metric in a recent hackathon).
+I move comfortably between **product engineering** (multi-tenant SaaS, auth, integrations, dashboards) and **applied machine learning** (built an ensemble model that won every leaderboard metric in a recent hackathon). I'm actively looking for opportunities to grow alongside experienced engineering teams.
 
 ---
 
@@ -29,7 +29,6 @@ I move comfortably between **product engineering** (multi-tenant SaaS, auth, int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,14 +77,14 @@ I move comfortably between **product engineering** (multi-tenant SaaS, auth, int
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ [Vyzor — SaaS Platform](https://github.com/luccalck/vyzor-saas)
-Multi-tenant data management & automation platform.
+### [Vyzor — SaaS Platform](https://github.com/luccalck/vyzor-saas)
+Multi-tenant data management and automation platform.
 **FastAPI · SQLAlchemy · Alembic · JWT · Redis · Docker** — modular connectors (HubSpot, MySQL), ETL with scheduling, per-tenant integrations, CI/CD pipelines on Azure.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [Hackathon FPD — ML Solution](https://github.com/luccalck)
+### [Hackathon FPD — ML Solution](https://github.com/luccalck)
 First Payment Default classification — calibrated ensemble (v27) of 3 complementary models.
 **AUC 0.8074 · KS 0.4574** — won every leaderboard tiebreaker. Anti-leakage pipeline, SHAP explainability, decile-anchored collection policy.
 
@@ -94,14 +93,14 @@ First Payment Default classification — calibrated ensemble (v27) of 3 compleme
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 [ScopeMaster](https://github.com/luccalck/scope-master)
+### [ScopeMaster](https://github.com/luccalck/scope-master)
 Collaborative software requirements platform — capstone project.
 **React 18 · TypeScript · Vite · Tailwind · Shadcn/UI · Supabase (RLS) · Vercel** — 3 role profiles, validation flow, auto PDF generation.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio](https://github.com/luccalck/portfolio)
+### [Portfolio](https://github.com/luccalck/portfolio)
 High-fidelity personal portfolio with magnetic cursors, scroll-driven reveals, and theme/i18n contexts.
 **React · Framer Motion · Lenis Smooth Scroll · TailwindCSS** — bilingual (EN/PT), dark/light system.
 
@@ -110,14 +109,14 @@ High-fidelity personal portfolio with magnetic cursors, scroll-driven reveals, a
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Secure Connections](https://github.com/luccalck/projeto-conexoes-seguras)
+### [Secure Connections](https://github.com/luccalck/projeto-conexoes-seguras)
 Practical proofs-of-concept for network security: sniffing, TLS handshakes, session security, and VPN.
 **tcpdump · OpenSSL · Node.js · AWS EC2** — full technical report and reproducible lab environment.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [IA para Devs](https://github.com/luccalck/ia-para-devs)
+### [IA para Devs](https://github.com/luccalck/ia-para-devs)
 Landing page and platform for an 8-lesson AI-for-developers extension course.
 **React 19 · TypeScript · Vite · Tailwind v4 · Shadcn/UI · MUI · Framer Motion**
 
@@ -129,9 +128,9 @@ Landing page and platform for an 8-lesson AI-for-developers extension course.
 
 ## Currently
 
-- 🛠️ Shipping features on **Vyzor** (external auth flows, observability, connector hardening)
-- 📚 Deepening **distributed systems**, **PostgreSQL internals**, and **MLOps**
-- 🎓 Wrapping the ADS program with **ScopeMaster** as the integrator project
+- Shipping features on **Vyzor** (external auth flows, observability, connector hardening)
+- Deepening **distributed systems**, **PostgreSQL internals**, and **MLOps**
+- Wrapping the ADS program with **ScopeMaster** as the integrator project
 
 ---
 
