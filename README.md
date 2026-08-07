@@ -63,7 +63,7 @@ My practical experience includes multi-tenant backend architectures, JWT authent
 <tr>
 <td width="50%" valign="top">
 
-### [Vyzor](https://github.com/luccalck/vyzor-saas)
+### [Vyzor](https://github.com/luccalck/vyzor)
 Multi-tenant data management and backend engine.
 **FastAPI · SQLAlchemy 2.0 · Alembic · JWT · Redis · Docker** — modular ETL connectors, credential encryption, background task scheduling, and automated API health monitoring.
 
