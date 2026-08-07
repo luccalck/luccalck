@@ -6,7 +6,7 @@
 
 *Developing clean backend services, RESTful APIs, and relational database systems.*
 
-São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and Development (ADS) &nbsp;·&nbsp; Open to Tech Trainee & Entry-Level Backend Roles
+São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and Development
 
 </div>
 
@@ -14,9 +14,9 @@ São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and De
 
 ## About
 
-I'm an undergraduate student pursuing **Computer Science** and **Systems Analysis and Development (ADS)** in parallel, focused on **Python Backend Engineering**. I build RESTful services using **FastAPI**, manage data persistence with **PostgreSQL** and **SQLAlchemy**, and containerize applications with **Docker**.
+I am an undergraduate student pursuing **Computer Science** and **Systems Analysis and Development** in parallel, specializing in **Python Backend Engineering**. I focus on architecting RESTful services with **FastAPI**, managing data persistence with **PostgreSQL** and **SQLAlchemy 2.0**, and containerizing applications with **Docker**.
 
-My practical experience includes building multi-tenant backend architectures, JWT authentication flows, database migration pipelines (Alembic), and web integrations. I am actively seeking Tech Trainee and Entry-Level Backend roles to deliver clean, scalable backend solutions.
+My practical experience includes multi-tenant backend architectures, JWT authentication flows, database migration pipelines (Alembic), and modular data connectors. I focus on delivering clean, testable, and production-ready backend code.
 
 ---
 
@@ -57,31 +57,31 @@ My practical experience includes building multi-tenant backend architectures, JW
 
 ---
 
-## Real Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Vyzor — SaaS Platform](https://github.com/luccalck/vyzor-saas)
-Multi-tenant data management and backend platform.
-**FastAPI · SQLAlchemy 2.0 · Alembic · JWT · Redis · Docker** — modular ETL connectors, credential encryption, task scheduling, and automated API health checks.
+### [Vyzor](https://github.com/luccalck/vyzor-saas)
+Multi-tenant data management and backend engine.
+**FastAPI · SQLAlchemy 2.0 · Alembic · JWT · Redis · Docker** — modular ETL connectors, credential encryption, background task scheduling, and automated API health monitoring.
 
 </td>
 <td width="50%" valign="top">
 
 ### [ScopeMaster](https://github.com/luccalck/scope-master)
-Collaborative software requirements management platform — ADS Capstone Project.
-**React 18 · TypeScript · Vite · Tailwind · Supabase RLS · Vercel** — multi-role access control, validation flow, and automated PDF specification generator.
+Collaborative software requirements management platform — Capstone Project.
+**React 18 · TypeScript · Vite · Tailwind · Supabase RLS · Vercel** — multi-role access control, requirement validation flow, and automated PDF specification generator.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" colspan="2">
 
-### [Personal Engineering Portfolio](https://github.com/luccalck/portfolio)
-Personal website showcasing projects, technical background, and contacts.
-**React · Framer Motion · TailwindCSS** — bilingual (EN/PT) accessibility and smooth interactive layout.
+### [Portfolio](https://github.com/luccalck/portfolio)
+Personal engineering portfolio showcasing technical background and projects.
+**React · Framer Motion · TailwindCSS** — bilingual (EN/PT) accessibility, Lenis smooth scrolling, and responsive design.
 
 </td>
 </tr>
@@ -92,8 +92,8 @@ Personal website showcasing projects, technical background, and contacts.
 ## Currently
 
 - Developing multi-tenant backend architecture on **Vyzor** (FastAPI, SQLAlchemy, Docker).
-- Deepening concepts in **relational database modeling**, **API testing with Pytest**, and **clean architecture**.
-- Finalizing the ADS program with **ScopeMaster** as the capstone integration project.
+- Deepening concepts in **relational database modeling**, **API testing with Pytest**, and **clean backend architecture**.
+- Finalizing the Systems Analysis and Development program with **ScopeMaster** as the capstone project.
 
 ---
 
