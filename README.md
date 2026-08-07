@@ -2,11 +2,11 @@
 
 # Lucca Castilho
 
-### Software Engineering Student · Full Stack · Applied ML
+### Software Engineering Student · Python Backend & Data
 
-*Building production-grade web platforms, end-to-end ML pipelines, and polished frontends.*
+*Developing clean backend services, RESTful APIs, and relational database systems.*
 
-São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and Development (ADS) &nbsp;·&nbsp; Open to internships and junior roles
+São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and Development
 
 </div>
 
@@ -14,9 +14,9 @@ São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and De
 
 ## About
 
-I'm an undergraduate student pursuing **Computer Science** and **Systems Analysis and Development (ADS)** in parallel, with a strong focus on shipping software that's architecturally sound and visually polished. I work across the stack — from designing PostgreSQL schemas with Row-Level Security and building FastAPI services, to crafting React and TypeScript interfaces with motion and micro-interactions.
+I am an undergraduate student pursuing **Computer Science** and **Systems Analysis and Development** in parallel, specializing in **Python Backend Engineering**. I focus on architecting RESTful services with **FastAPI**, managing data persistence with **PostgreSQL** and **SQLAlchemy 2.0**, and containerizing applications with **Docker**.
 
-I move comfortably between **product engineering** (multi-tenant SaaS, auth, integrations, dashboards) and **applied machine learning** (built an ensemble model that won every leaderboard metric in a recent hackathon). I'm actively looking for opportunities to grow alongside experienced engineering teams.
+My practical experience includes multi-tenant backend architectures, JWT authentication flows, database migration pipelines (Alembic), and modular data connectors. I focus on delivering clean, testable, and production-ready backend code.
 
 ---
 
@@ -24,43 +24,34 @@ I move comfortably between **product engineering** (multi-tenant SaaS, auth, int
 
 <div align="center">
 
-**Languages**
+**Primary Backend Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
+**Backend & Architecture**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Data & Infra**
+**Infrastructure & Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Machine Learning**
+**Secondary / Web Frontend**
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
@@ -72,48 +63,25 @@ I move comfortably between **product engineering** (multi-tenant SaaS, auth, int
 <tr>
 <td width="50%" valign="top">
 
-### [Vyzor — SaaS Platform](https://github.com/luccalck/vyzor-saas)
-Multi-tenant data management and automation platform.
-**FastAPI · SQLAlchemy · Alembic · JWT · Redis · Docker** — modular connectors (HubSpot, MySQL), ETL with scheduling, per-tenant integrations, CI/CD pipelines on Azure.
+### [Vyzor](https://github.com/luccalck/vyzor)
+Multi-tenant data management and backend engine.
+**FastAPI · SQLAlchemy 2.0 · Alembic · JWT · Redis · Docker** — modular ETL connectors, credential encryption, background task scheduling, and automated API health monitoring.
 
 </td>
-<td width="50%" valign="top">
-
-### [Hackathon FPD — ML Solution](https://github.com/luccalck)
-First Payment Default classification — calibrated ensemble (v27) of 3 complementary models.
-**AUC 0.8074 · KS 0.4574** — won every leaderboard tiebreaker. Anti-leakage pipeline, SHAP explainability, decile-anchored collection policy.
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ScopeMaster](https://github.com/luccalck/scope-master)
-Collaborative software requirements platform — capstone project.
-**React 18 · TypeScript · Vite · Tailwind · Shadcn/UI · Supabase (RLS) · Vercel** — 3 role profiles, validation flow, auto PDF generation.
-
-</td>
-<td width="50%" valign="top">
-
-### [Portfolio](https://github.com/luccalck/portfolio)
-High-fidelity personal portfolio with magnetic cursors, scroll-driven reveals, and theme/i18n contexts.
-**React · Framer Motion · Lenis Smooth Scroll · TailwindCSS** — bilingual (EN/PT), dark/light system.
+Collaborative software requirements management platform — Capstone Project.
+**React 18 · TypeScript · Vite · Tailwind · Supabase RLS · Vercel** — multi-role access control, requirement validation flow, and automated PDF specification generator.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2">
 
-### [Secure Connections](https://github.com/luccalck/projeto-conexoes-seguras)
-Practical proofs-of-concept for network security: sniffing, TLS handshakes, session security, and VPN.
-**tcpdump · OpenSSL · Node.js · AWS EC2** — full technical report and reproducible lab environment.
-
-</td>
-<td width="50%" valign="top">
-
-### [IA para Devs](https://github.com/luccalck/ia-para-devs)
-Landing page and platform for an 8-lesson AI-for-developers extension course.
-**React 19 · TypeScript · Vite · Tailwind v4 · Shadcn/UI · MUI · Framer Motion**
+### [Portfolio](https://github.com/luccalck/portfolio)
+Personal engineering portfolio showcasing technical background and projects.
+**React · Framer Motion · TailwindCSS** — multilingual (EN/PT/ZH/DE/FR/RU) accessibility, Lenis smooth scrolling, and responsive design.
 
 </td>
 </tr>
@@ -123,19 +91,19 @@ Landing page and platform for an 8-lesson AI-for-developers extension course.
 
 ## Currently
 
-- Shipping features on **Vyzor** (external auth flows, observability, connector hardening)
-- Deepening **distributed systems**, **PostgreSQL internals**, and **MLOps**
-- Wrapping the ADS program with **ScopeMaster** as the integrator project
+- Developing multi-tenant backend architecture on **Vyzor** (FastAPI, SQLAlchemy, Docker).
+- Deepening concepts in **relational database modeling**, **API testing with Pytest**, and **clean backend architecture**.
+- Finalizing the Systems Analysis and Development program with **ScopeMaster** as the capstone project.
 
 ---
 
 <div align="center">
 
-## Get in touch
+## Contact & Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccacc.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccacastilho1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luccalck.github.io/portfolio)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lc.castilho)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lc.castilho/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccacc.contato@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-lucca.vercel.app)
 
 </div>
