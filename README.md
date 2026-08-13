@@ -2,11 +2,11 @@
 
 # Lucca Castilho
 
-### Software Engineering Student · Python Backend & Data
+### Computer Science & Systems Analysis Student · Python Backend
 
-*Developing clean backend services, RESTful APIs, and relational database systems.*
+*Building backend applications, REST APIs, and relational data solutions through academic and personal projects.*
 
-São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and Development
+São Paulo, Brazil &nbsp;·&nbsp; Technical Degree in Systems Development (SENAI)
 
 </div>
 
@@ -14,44 +14,41 @@ São Paulo, Brazil &nbsp;·&nbsp; Computer Science &amp; Systems Analysis and De
 
 ## About
 
-I am an undergraduate student pursuing **Computer Science** and **Systems Analysis and Development** in parallel, specializing in **Python Backend Engineering**. I focus on architecting RESTful services with **FastAPI**, managing data persistence with **PostgreSQL** and **SQLAlchemy 2.0**, and containerizing applications with **Docker**.
+I am pursuing degrees in **Computer Science** and **Systems Analysis and Development**, with a completed Technical Degree in Systems Development from SENAI. My primary technical focus is **Python backend development**, especially REST APIs, relational databases, data modeling, testing, and version control.
 
-My practical experience includes multi-tenant backend architectures, JWT authentication flows, database migration pipelines (Alembic), and modular data connectors. I focus on delivering clean, testable, and production-ready backend code.
+Across technical, academic, and personal projects, I have worked with **Python, FastAPI, PostgreSQL, SQLAlchemy 2.0, Pydantic, Alembic, JWT authentication, Redis, Docker, Pytest, Git**, and **GitHub Actions**. I also have project experience with **TypeScript, JavaScript, React, Tailwind CSS**, and **Supabase/PostgreSQL**.
+
+I combine formal study with hands-on development to build software that is structured, documented, testable, and explainable. My long-term path connects a solid backend engineering foundation with **Applied AI and Machine Learning Engineering**.
 
 ---
 
-## Tech Stack
+## Technologies Used Across My Projects
 
 <div align="center">
 
-**Primary Backend Languages & Data**
+**Python & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend & Architecture**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Infrastructure & Databases**
+**Data & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Secondary / Web Frontend**
+**Web Technologies**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -64,15 +61,13 @@ My practical experience includes multi-tenant backend architectures, JWT authent
 <td width="50%" valign="top">
 
 ### [Vyzor](https://github.com/luccalck/vyzor)
-Multi-tenant data management and backend engine.
-**FastAPI · SQLAlchemy 2.0 · Alembic · JWT · Redis · Docker** — modular ETL connectors, credential encryption, background task scheduling, and automated API health monitoring.
+Backend data management and automation platform initiated during my technical education. I contributed to backend components involving **Python 3.11, FastAPI, REST APIs, PostgreSQL, SQLAlchemy 2.0, Alembic, JWT authentication, Redis, Docker, and Pytest**.
 
 </td>
 <td width="50%" valign="top">
 
 ### [ScopeMaster](https://github.com/luccalck/scope-master)
-Collaborative software requirements management platform — Capstone Project.
-**React 18 · TypeScript · Vite · Tailwind · Supabase RLS · Vercel** — multi-role access control, requirement validation flow, and automated PDF specification generator.
+Collaborative requirements management platform developed as an ADS Integrator Project with **React 18, TypeScript, Vite, Supabase/PostgreSQL, Row Level Security, Tailwind CSS, analytics, validation workflows, and PDF reports**.
 
 </td>
 </tr>
@@ -80,8 +75,7 @@ Collaborative software requirements management platform — Capstone Project.
 <td width="50%" valign="top" colspan="2">
 
 ### [Portfolio](https://github.com/luccalck/portfolio)
-Personal engineering portfolio showcasing technical background and projects.
-**React · Framer Motion · TailwindCSS** — multilingual (EN/PT/ZH/DE/FR/RU) accessibility, Lenis smooth scrolling, and responsive design.
+Responsive personal portfolio built with **React 17, JavaScript, Framer Motion, Lenis, custom CSS**, and multilingual support for **English, Portuguese, Chinese, German, French, and Russian**.
 
 </td>
 </tr>
@@ -91,9 +85,9 @@ Personal engineering portfolio showcasing technical background and projects.
 
 ## Currently
 
-- Developing multi-tenant backend architecture on **Vyzor** (FastAPI, SQLAlchemy, Docker).
-- Deepening concepts in **relational database modeling**, **API testing with Pytest**, and **clean backend architecture**.
-- Finalizing the Systems Analysis and Development program with **ScopeMaster** as the capstone project.
+- Strengthening **Python programming, problem-solving, and backend fundamentals**.
+- Deepening practical knowledge of **REST APIs, relational database modeling, automated tests, Git, and technical documentation**.
+- Organizing projects, READMEs, and public technical evidence for software development and backend internship opportunities.
 
 ---
 
@@ -104,6 +98,6 @@ Personal engineering portfolio showcasing technical background and projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccacastilho1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lc.castilho/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccacc.contato@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-lucca.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luccacc.vercel.app/)
 
 </div>
